@@ -1,1 +1,5 @@
 # Web-Based-Budget-Tracking-App
+
+This application is created in a very simple way using JavaScript, HTML and CSS. It has very basic functionalities like showing inflow and outflow of the money and checking the balance, whether it is negative or positive.
+So, at first, we enter the “Description” of the money we are depositing or withdrawing, and even before that if we click on “ADD TRANSACTION” i.e., without entering anything to the entry slots it gives an error message which stays for 5 seconds and then disappears. After we have entered the description then we need to add the amount we want to deposit or the amount we want to withdraw, for that use a minus (-) sign meaning the money is being deducted from the balance amount. Then we click on “ADD TRANSACTION” and the withdraw, the deposit and the balance amount are shown in 3 different slots in the application. Next there is the “Transaction History” which shows the transaction history. 
+This application uses the local storage of the device i.e., if we suppose close the application and then reopen it, it will have the description of the previous transactions.
